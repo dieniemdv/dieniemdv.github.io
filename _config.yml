@@ -11,7 +11,7 @@ title: Sales Support Technician
 email: mcdevilliers18@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  dieniemdv
@@ -25,7 +25,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills # Title for the section
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
           - <mark>Programming Languages:</mark> Python, C++, C#
           - <mark>Databases:</mark> MySQL

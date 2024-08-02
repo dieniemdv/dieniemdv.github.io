@@ -105,7 +105,7 @@ content:
       - Social
 
     layout: left
-    (images/handshake.jpg "handshake")
+    [handshake](images/handshake.jpg "handshake")
 
 # Footer
 footer_show_references: true

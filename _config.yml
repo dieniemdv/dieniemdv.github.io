@@ -27,7 +27,6 @@ content:
   - title: Skills # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-        #description: | # this will include new lines to allow paragraph
           - <mark>Programming Languages:</mark> Python, C++, C#
           - <mark>Databases:</mark> MySQL
           - <mark>CRM:</mark> SalesForce

@@ -104,9 +104,9 @@ content:
       - Gaming
       - Social
 
-  - Title:
+  - content:
     layout: centre
-    content: ![Trees](images/handshake.jpg "Trees")
+    (images/handshake.jpg "handshake")
 
 # Footer
 footer_show_references: true

@@ -104,8 +104,8 @@ content:
       - Gaming
       - Social
 
-      Look at this cool image  
-      ![Trees](images/handshake.jpg "Trees")
+      -layout: centre  
+       ![Trees](images/handshake.jpg "Trees")
 
 # Footer
 footer_show_references: true

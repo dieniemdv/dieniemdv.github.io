@@ -1,13 +1,13 @@
 # Site
-repository: sproogen/resume-theme
+repository: dieniemdv/dieniemdv.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
-title: Mardené de Villiers
-name: Sales Support Technician
+name: Mardené de Villiers
+title: Sales Support Technician
 email: mcdevilliers18@gmail.com
 
 # Dark Mode (true/false/never)
@@ -103,9 +103,6 @@ content:
       - Soccer
       - Gaming
       - Social
-
-    layout: left
-    [handshake](images/handshake.jpg "handshake")
 
 # Footer
 footer_show_references: true

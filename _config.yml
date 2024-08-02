@@ -25,8 +25,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+    layout: text
+    content: | # this will include new lines to allow paragraphs
         #description: | # this will include new lines to allow paragraph
           - <mark>Programming Languages:</mark> Python, C++, C#
           - <mark>Databases:</mark> MySQL

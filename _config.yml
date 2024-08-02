@@ -25,14 +25,14 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills # Title for the section
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
-          - <mark>Programming Languages:</mark> Python,C++,C#
+          - <mark>Programming Languages:</mark> Python, C++, C#
           - <mark>Databases:</mark> MySQL
           - <mark>CRM:</mark> SalesForce
           - <mark>ERP:</mark> Abas
-          - <mark>Tools & Methods:</mark> Git,Agile
-          - <mark>Administration:</mark> Logistic,Data Collection,Management
+          - <mark>Tools & Methods:</mark> Git, Agile
+          - <mark>Administration:</mark> Logistic, Data Collection, Management
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

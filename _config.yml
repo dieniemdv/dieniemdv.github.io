@@ -83,14 +83,14 @@ content:
 
       - layout: left
         title: South African Weather Service
-        caption: 2013
+        caption: *2013
         sub_title: National Certificate: Weather Observations (NQF level: 5)
         quote: >
           Graduates conform to all the requirements according to the definition of the World Meteorological Organization (WMO) Technical Regulations for Weather Observations
 
       - layout: left
         title: RMIT University
-        caption: 2024
+        caption: *2024
         sub_title: SalesForce Administrator
         quote: >
           Becoming a Salesforce Administrator is the first step on a career pathway that may lead to roles as a well-rounded CRM professional

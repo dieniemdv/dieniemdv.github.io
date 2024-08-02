@@ -18,7 +18,7 @@ github_username:  dieniemdv
 linkedin_username: mardené-de-villiers
 
 # About Section
-# about_title: About Me
+# about_title: About Me 
 about_profile_image: images/image.png
 about_content: | # this will include new lines to allow paragraphs
   Final year BSc IT student studying at the North-West University. Government and International working experience as a Port Meteorological Officer at the South African Weather Service. Currently work as a Sales Support Technician at the largest polyethylene and polypropylene company in the southern hemisphere.
@@ -83,14 +83,14 @@ content:
 
       - layout: left
         title: South African Weather Service
-        caption: *2013
+        caption: February 2013 – November 2013
         sub_title: National Certificate Weather Observations
         quote: >
           Graduates conform to all the requirements according to the definition of the World Meteorological Organization (WMO) Technical Regulations for Weather Observations
 
       - layout: left
         title: RMIT University
-        caption: *2024
+        caption: August 2024 - October 2024
         sub_title: SalesForce Administrator
         quote: >
           Becoming a Salesforce Administrator is the first step on a career pathway that may lead to roles as a well-rounded CRM professional
@@ -98,14 +98,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in programming and leadership some of my other interests and hobbies are:
+      - Lawn Bowls
+      - Soccer
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Social
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/handshake.jpg "Trees")
 
 # Footer
 footer_show_references: true

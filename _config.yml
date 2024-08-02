@@ -29,12 +29,12 @@ content:
     content:
       - layout: top-middle
         #description: | # this will include new lines to allow paragraph
-          <mark>Programming Languages:</mark> Python, C++, C#
-          <mark>Databases:</mark> MySQL
-          <mark>CRM:</mark> SalesForce
-          <mark>ERP:</mark> Abas
-          <mark>Tools & Methods:</mark> Git, Agile
-          <mark>Administration:</mark> logistic, data collection, management
+          - <mark>Programming Languages:</mark> Python, C++, C#
+          - <mark>Databases:</mark> MySQL
+          - <mark>CRM:</mark> SalesForce
+          - <mark>ERP:</mark> Abas
+          - <mark>Tools & Methods:</mark> Git, Agile
+          - <mark>Administration:</mark> logistic, data collection, management
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

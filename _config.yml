@@ -104,7 +104,7 @@ content:
       - Gaming
       - Social
 
-    quote: >
+    layout: left
     (images/handshake.jpg "handshake")
 
 # Footer

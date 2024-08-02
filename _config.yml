@@ -48,8 +48,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Abas ERP, Sales Order Processing, Invoice Processing, Salesforce.com, Smartsheet, Salesforce CPQ, Customer Service
 
-    #layout: list # Type of content section (list/text)
-    #content:
       - layout: left
         title: South African Weather Service
         link: https://www.weathersa.co.za/
@@ -62,19 +60,27 @@ content:
             - International panel experience: Under the Global Ocean Observing System (GOOS) panels include Executive committee member of Ship Observation Team, Chair of Task Team on Recruitment, Promotion and Training under Voluntary Observing Ship Scheme and South African national representative on the Ship Observation Team.
             - Chief Scientist and Group Leader experience on board the SA Agulhas II Research Vessel: Marion Island Relief Voyage (2016), South African National Antarctic Expedition Base Relief Voyage (2016/2017), Winter Research Cruise (2017 & 2019), Spring Research Cruise (2019), Gough Island and Tristan da Cunha Relief Voyage (2021), SeaMester (2022)
 
+    - layout: left
+        title: South African Weather Service
+        link: https://www.weathersa.co.za/
+        # link_text: weathersa.co.za
+        sub_title: Meteorological Technician
+        caption: April 2014 – April 2015
+        quote: >
+          Authoritative voice for weather and climate forecasting in South Africa
+        description: | # this will include new lines to allow paragraphs
+            - Aviation Weather Observations, Special Weather Reports, Weather Station Inspection and Maintenance
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: North-West University
+        caption: 2020-2024 (Distance Learning)
+        sub_title: Bachelor of Science in Information Technology
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          We offer people a place in the world. Academically, students benefit from great choice and flexibility, enabling them to fulfill their potential and start preparing for their careers. 
+      
 
   - title: A Little More About Me
     layout: text
